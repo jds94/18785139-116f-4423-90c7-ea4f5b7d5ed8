@@ -27,3 +27,5 @@ Habt ihr euch schon die Zähne geputzt? Falls nicht, stimmt euch schonmal ein!
 ***
 
 Ich wünsche euch eine gute Nacht. Ich denk an euch! Bis morgen früh, Papabär 🐻
+
+PS: Das nächste Versteck ist: die unterste Schublade im Abstellraum oben!
