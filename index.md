@@ -1,5 +1,3 @@
-# Sonntag Abend, Papa ist in Frankfurt angekommen
-
 Hallo meine Lieblinge,
 
 wenn ihr das lest, bin ich wohl schon im Hotel angekommen. Vermutlich haben wir auch schon Face-Chat gemacht!
