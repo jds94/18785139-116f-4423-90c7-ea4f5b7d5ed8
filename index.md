@@ -16,13 +16,13 @@ Wo waren wir denn an diesem Tag unterwegs?
 
 Wer, wenn nicht wir, schaffen alles zusammen - zum Beispiel die kommende Nacht getrennt zu verbringen?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VbM7rnfmxic?si=c6HNLuRkt7yV03TC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/VbM7rnfmxic?si=c6HNLuRkt7yV03TC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Song für Edda
 
 Habt ihr euch schon die Zähne geputzt? Falls nicht, stimmt euch schonmal ein!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ObHnS_rfa_8?si=BVn7df1MsOeml0xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/ObHnS_rfa_8?si=BVn7df1MsOeml0xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***
 
